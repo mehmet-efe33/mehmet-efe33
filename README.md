@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Efe Yılmaz</h1>
-<h3 align="center">A software engineer who newly graduated from Çukurova University. I am a backend developer and i am generally using .NET for my projects.</h3>
+<h3 align="center">A software engineer who newly graduated from Çukurova University. I am a backend developer and generally using .NET for my projects.</h3>
 
 - 🌱 I’m currently learning **.NET Core MVC, Cucumber**
 
